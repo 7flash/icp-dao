@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "dfx": "0.10.0",
+    "canisters": {
+        "thirdone": {
+            "main": "src/main.mo"
+        }
+    }
+}
